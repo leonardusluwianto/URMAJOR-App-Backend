@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const config = require('./config');
 
 const admin = require("firebase-admin");
 const credentials = require("./key.json");
@@ -33,7 +34,6 @@ app.post('/create', async (req, res) => {
     }
 })
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}.`);
+app.listen(config.PORT, config.HOST, () => {
+    console.log(`Server is running on port ${config.PORT}.`);
 })

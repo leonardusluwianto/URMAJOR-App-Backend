@@ -35,5 +35,5 @@ app.post('/create', async (req, res) => {
 })
 
 app.listen(config.PORT, config.HOST, () => {
-    console.log(`Server is running on port ${config.PORT}.`);
+    console.log(`Server is running on http://${config.HOST}:${config.PORT}.`)
 })

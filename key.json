@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "empyrean-cubist-344117",
+    "private_key_id": "24e7e36f7886f4c3fc78ff5092e1e2802852b8b9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDbwlefXdzOHxS1\npEpg/Oee3ds+5BhCIMxzqvPAExkj+lrXrx2qgaqdK1iyBh+wnp1LgxXTOoKa0+xM\n+dYzuM5TQT6XIm9Ep9yHh00pH6orQDpcnMqVNJwDzg4VLCKcuJsMN2yQMsvxb32a\nw2kBGh+/kSiVoBBm1MbRy3PINe7O8YMKPZHVB0ed7/I0ezbakllmv0p8oDhFkyZK\nBpfJFzpKG2qwLW7pB3s71GwJBFYfMgmV3OPQXzdR7QTrGGiG+3e1TL1SsTovNj8D\nLkKOVnadfzellAyU+E4JpKPDVL8YCCNv/JwhWsL9GFhvd5P9W7s9GmNm1yQlpKyi\nK8G1cRClAgMBAAECggEAANc36uFxwhZkoyyuuU2wqkp+IKeblm91+MUFpx+93ZgV\ncuIRVNfMJW/HKF8wxLPGoyDjG3zCh28aHQizpO9LoHvosvXi5/EL4e39lAFpJfV+\nzM3mdskW4WshqvI12WbHZH8AEcACSJSYdyE+0SmMR4t5ndfGxgA4Yew5L5i/giEn\nuNe+HdLys5fZPcwbIXkE2szCzjanJ6i/NqAKin1vMUEnzJ/5nGmnc1lnDuEaIsuL\nT6JeHm8HArJZJz8RtsIyfZ7pGPKE86kKvv67a/VZBp8swteQgAOBMYPsr8IHAeyu\nryjuGtAybWM2+jUMeiT2etbR6a+Ugd4KzzGr9v0IIQKBgQD4FTMbK9QLSEHXm9u7\nOp01fvCJN7zCgQFoEpG7hlkZ1MYEeuzhx6FGn7pf5gHgZ4E7niNP62ApTewyK466\nWCMS25nzPiJhF8Gf7++RF7pOCCeMmdjM6g6TTk+RJQHJa4D4GLLzjDfNbHe2znoI\npGthbX+xkqjtkz/HcoA1FtqrOQKBgQDixb4R3tBiJUX5/csGfBEawUDKMXUZQo3v\nSUjIwWHTByOaXJNPUt6v3ZnZq4Z0p9NpuCmQvgu6tujodYA9T3b9nXuARRYGkK3T\nHNJTHELBxuD6PEPezcVXqpUx3excj4Zm3ubtQdQ8caGSUcHExLlzP54C2mMcu9fg\n3FNIQyGUzQKBgHCGPR4P7SgI6ESBn1L3LSN8pmG29FlM5nRsJ8nlEDkVN5QEpblr\nMQ21mXWyABvnFskR23Z+jqltfLrs4tpG6/G7xcJ85l8fxWVkEUfAeXK3ZCj0B1A6\nwc2y8YgmPv87Uc42dcTeTtlQX6R9VwDggww3/HlwykqoRX+Twe9SpHCRAoGASJeK\nP4g25qQN4Xe3rQy8IPdp+Q+Z74sZilbIQNN+sCHh6MDnuwXJGTzzyfUZZnBuwbHd\nRGNBt/RjXD543ad5bLgj16zF3zYjHqhkP4yVZhh23kO6ajEukeCeP8dNqVeca4PB\nIoPnH640TXV0dLuQre7YcwtbnNAYy/dbhY9PyaUCgYB7/zzb1D6C8EwRLznDVj0E\nM+PVQ+F/X8VAb/sl5gn5c8hvbXL3Fvt/zSZqIU8uqgbPdfgi/fi4tKqjv5rI12cI\nrIH5fKo2fdvnJFxjYTTQWoVO2YUg0IKO96Qz2QKbk4TWFnKZxMdklaXdfIFbubVc\nOybrhAs0fDXYbZ8kJRpLvQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-n7unx@empyrean-cubist-344117.iam.gserviceaccount.com",
+    "client_id": "106630647234323590883",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n7unx%40empyrean-cubist-344117.iam.gserviceaccount.com"
+  }
+  
